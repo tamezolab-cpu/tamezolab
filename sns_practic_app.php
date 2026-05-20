@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>ためぞうラボ_gallery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="ここにサイト説明を入れます">
+<meta name="keywords" content="キーワード１,キーワード２,キーワード３,キーワード４,キーワード５">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div id="container">
+
+<header>
+<h1 id="logo"><a href="index.html"><img src="images/logo2.png" alt="SAMPLE SITE"></a></h1>
+</header>
+
+
+
+<div id="contents">
+
+<section>
+
+<div>SNS練習アプリ</div>
+
+
+
+<!-- <div class="list">
+<img src="images/sample2.jpg">
+<h4>ここの見出しの色は、cssフォルダのstyle.cssの「.list h4」で設定されているcolorのコードで変更できます。</h4>
+<p>左の画像の幅もstyle.cssの「.list img」のwidthの数字で変更できます。</p>
+</div> -->
+
+
+</section>
+
+</div>
+<!--/contents-->
+
+<footer>
+<small>Copyright&copy; <a href="index.html">TAMEZO LAB</a> All Rights Reserved.</small>
+<span class="pr">《<a href="https://template-party.com/" target="_blank">Web Design:Template-Party</a>》</span>
+</footer>
+
+</div>
+<!--/container-->
+
+</body>
+</html>
