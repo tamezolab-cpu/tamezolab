@@ -149,6 +149,11 @@ header {
 .list p {
 	padding: 0 !important;
 }
+/*260530 新着表示を縦スクロールする*/
+.new_box {
+	max-height: 200px;
+	overflow-y: auto;
+}
 
 /*260523 練習SNSページ*/
 
@@ -158,6 +163,10 @@ header {
 	height: 50px;
 	border: #999;
 	background-color: cornsilk;
+}
+
+.input_area {
+	display: flex;
 }
 
 
